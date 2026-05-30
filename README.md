@@ -1,4 +1,3 @@
-# Library-Management-System
 Library Management System
 
 A Java-based Library Management System developed using Object-Oriented Programming concepts. The system manages books, students, librarians, book issuing, and return operations. It demonstrates core OOP principles including Encapsulation, Inheritance, Polymorphism, Abstraction, Constructors, and Exception Handling.
