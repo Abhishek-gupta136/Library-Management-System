@@ -1,2 +1,26 @@
 # Library-Management-System
-The Library Management System is a Java-based application developed using OOP concepts to manage books, students, and library operations. It allows adding books, issuing and returning books, and managing student records. The system applies Encapsulation, Inheritance, Polymorphism, Abstraction, and Exception Handling for efficient management.
+Library Management System
+
+A Java-based Library Management System developed using Object-Oriented Programming concepts. The system manages books, students, librarians, book issuing, and return operations. It demonstrates core OOP principles including Encapsulation, Inheritance, Polymorphism, Abstraction, Constructors, and Exception Handling.
+
+Features
+Add and view books
+Add and manage students
+Issue and return books
+Borrow limit validation
+Book availability tracking
+Exception handling for invalid operations
+Technologies Used
+Java
+OOP Concepts
+Collections Framework (ArrayList)
+Functionalities
+Add Book
+View Books
+Add Student
+Issue Book
+Return Book
+View Student Details
+Exit
+
+A simple console-based project suitable for learning Java and Object-Oriented Programming.
